@@ -1,6 +1,6 @@
 
-function squareStar() {
-    let n = 4;
+function squareStar(n) {
+    // let n = 4;
     let string = "";
 
     for (let i = 1; i <= n; i++) {
@@ -13,4 +13,4 @@ function squareStar() {
     return string;
 }
 
-console.log(squareStar());
+console.log(squareStar(4));
