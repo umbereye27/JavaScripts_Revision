@@ -5,4 +5,4 @@ function factorial(num) {
     }
     return fact;
 }
-console.log(factorial(3));
+console.log("The factorial on number is:", factorial(3));

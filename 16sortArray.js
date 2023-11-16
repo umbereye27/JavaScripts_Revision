@@ -8,5 +8,5 @@ function sortArray(arr){
     let first3sorted = sortedElement.slice(0,3);
     console.log(first3sorted);
 }
-let Array= [3,4,8,2,1,2,2,6,3,4];
+let Array= [3,4,8,2,1,6,3,4];
 (sortArray(Array));

@@ -5,4 +5,4 @@ for (let i=0; i<array.length;i++){
 }
 return sum;
 }
-console.log(sumOfArray([3,8]));
+console.log("The sum of all element is",sumOfArray([3,8,4,8,9,6]));

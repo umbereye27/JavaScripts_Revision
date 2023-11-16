@@ -7,6 +7,7 @@ function onesZerosPattern (size){
           string += "1 ";
         }
         string += "\n";
+      
       }
       return string;
   }

@@ -1,6 +1,4 @@
 function onesZerosPattern (size){
-
-
 let string = "";
 for (let i = size; i >=1; i--) {
         for (let j = 1; j <= i; j++) {

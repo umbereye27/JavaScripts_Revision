@@ -3,4 +3,4 @@ function minimumElement(arr){
     return min;
 }
 const array=[89,9,0,4,6,100];
-console.log(minimumElement(array));
+console.log("The smallest number", minimumElement(array));

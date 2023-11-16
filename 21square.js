@@ -2,4 +2,4 @@ function squareNumber(num) {
     return num*num;
     
 }
-console.log(squareNumber(5));
+console.log("square number:", squareNumber(5));

@@ -9,4 +9,4 @@ function biggerNumber(num1,num2) {
         return "numbers are equal"
     }
 }
-console.log( biggerNumber(15,15));
+console.log( biggerNumber(35,15));

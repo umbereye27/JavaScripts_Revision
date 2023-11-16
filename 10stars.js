@@ -1,6 +1,5 @@
 
 function squareStar(n) {
-    // let n = 4;
     let string = "";
 
     for (let i = 1; i <= n; i++) {

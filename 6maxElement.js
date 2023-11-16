@@ -3,4 +3,4 @@ function maximumElement(arr){
     return max;
 }
 const array=[89,9,0,4,6,100];
-console.log(maximumElement(array));
+console.log("The greatest value is: ", maximumElement(array));
