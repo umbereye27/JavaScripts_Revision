@@ -3,4 +3,4 @@ function personBMI(weight,height,){
     return BMI;
 
 }
-console.log("Body Mass Index is:" + personBMI(58,1.65));
+console.log("Body Mass Index is:", personBMI(58,1.65));

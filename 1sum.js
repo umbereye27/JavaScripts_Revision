@@ -3,7 +3,7 @@ function sum(num1, num2) {
     
 }
 const result = sum(3,5);
-console. log(result);
+console. log("The sum is", result);
 
 
 
