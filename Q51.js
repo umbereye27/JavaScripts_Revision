@@ -1,5 +1,5 @@
-const array1 = [5, -12, 8, 130, 44];
-const array2 = [-1, 30, 39, 29, 10, 13];
+// const array1 = [5, -12, 8, 130, 44];
+// const array2 = [-1, 30, 39, 29, 10, 13];
  
 
 // console.log(array1.at(-2));
@@ -41,9 +41,9 @@ const array2 = [-1, 30, 39, 29, 10, 13];
 // let map1 = array1.map((element) =>element+2);
 // console.log(map1);
 
-const array = [1, 2, 3, 4, 5];
+// const array = [1, 2, 3, 4, 5];
 
-// Checks whether an element is even
-const even = (element) => element % 2 === 0;
+// // Checks whether an element is even
+// const even = (element) => element % 2 === 0;
 
-console.log(array.some(even));
+// console.log(array.some(even));
